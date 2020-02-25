@@ -1,5 +1,3 @@
-# https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
-# https://towardsdatascience.com/multinomial-naive-bayes-classifier-for-text-analysis-python-8dd6825ece67
 
 import numpy as np
 import pandas as pd
